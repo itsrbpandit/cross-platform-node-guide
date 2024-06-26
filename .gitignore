@@ -4,9 +4,9 @@ npm-debug.log
 node_modules
 /core
 .eslintcache
+.lycheecache
 .npmrc
 .yarn-error.log
-.nyc_output
 !.github/
 /coverage
 /build
